@@ -1,2 +1,17 @@
 logging:
   level: debug
+spring:
+  datasource:
+    driver-class-name: org.gjt.mm.mysql.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql:///dy
+org:
+  tlh:
+    datasource:
+      names: d1
+      d1:
+        driver-class-name: org.gjt.mm.mysql.Driver
+        username: root
+        password: 123456
+        url: jdbc:mysql:///dy1

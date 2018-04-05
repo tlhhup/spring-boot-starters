@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dynamicds-spring-boot-starter/dynamicds-spring-boot-starter.iml" filepath="$PROJECT_DIR$/dynamicds-spring-boot-starter/dynamicds-spring-boot-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-starter.iml" filepath="$PROJECT_DIR$/spring-boot-starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-swagger/spring-boot-starter-swagger.iml" filepath="$PROJECT_DIR$/spring-boot-starter-swagger/spring-boot-starter-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/starter-test/starter-test.iml" filepath="$PROJECT_DIR$/starter-test/starter-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-spring-boot-starter/swagger-spring-boot-starter.iml" filepath="$PROJECT_DIR$/swagger-spring-boot-starter/swagger-spring-boot-starter.iml" />
     </modules>
   </component>
 </project>
