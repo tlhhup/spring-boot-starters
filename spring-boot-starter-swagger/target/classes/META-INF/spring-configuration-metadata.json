@@ -1,0 +1,45 @@
+{
+  "groups": [{
+    "name": "org.tlh.swagger",
+    "type": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+    "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties"
+  }],
+  "properties": [
+    {
+      "name": "org.tlh.swagger.contact",
+      "type": "java.lang.String",
+      "description": "contact",
+      "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+      "defaultValue": "离歌笑"
+    },
+    {
+      "name": "org.tlh.swagger.description",
+      "type": "java.lang.String",
+      "description": "description",
+      "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+      "defaultValue": "Swagger API"
+    },
+    {
+      "name": "org.tlh.swagger.terms-of-service-url",
+      "type": "java.lang.String",
+      "description": "termsOfServiceUrl",
+      "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+      "defaultValue": "https://github.com/tlhhup"
+    },
+    {
+      "name": "org.tlh.swagger.title",
+      "type": "java.lang.String",
+      "description": "title",
+      "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+      "defaultValue": "Swagger API"
+    },
+    {
+      "name": "org.tlh.swagger.version",
+      "type": "java.lang.String",
+      "description": "version",
+      "sourceType": "org.tlh.springboot.autoconfigure.SwaggerProperties",
+      "defaultValue": "1.0"
+    }
+  ],
+  "hints": []
+}
