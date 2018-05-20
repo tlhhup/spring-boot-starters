@@ -1,5 +1,6 @@
 logging:
   level: debug
+  config: classpath:logback.xml
 spring:
   datasource:
     driver-class-name: org.gjt.mm.mysql.Driver
@@ -15,3 +16,8 @@ org:
         username: root
         password: 123456
         url: jdbc:mysql:///dy1
+uncode:
+  schedule:
+    zk-connect: 127.0.0.1:2181
+    zk-username: admin
+    zk-password: 123456
