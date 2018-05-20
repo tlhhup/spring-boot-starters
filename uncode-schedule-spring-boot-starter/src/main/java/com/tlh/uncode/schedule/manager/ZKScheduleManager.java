@@ -246,6 +246,7 @@ public class ZKScheduleManager extends ThreadPoolTaskScheduler implements Applic
 				hearBeatTimer = new Timer("ScheduleManager-"
 						+ this.currenScheduleServer.getUuid() + "-HearBeat");
 			}
+			// 1.该方法为整个调度的入口
 			hearBeatTimer.schedule(new HeartBeatTimerTask(this), 1000, this.timerInterval);
 			
 			//初始化启动数据
@@ -329,6 +330,7 @@ public class ZKScheduleManager extends ThreadPoolTaskScheduler implements Applic
 		return taskDefine;
 	}
 
+	// 心跳检测
 	class HeartBeatTimerTask extends java.util.TimerTask {
 		private transient final Logger log = LoggerFactory.getLogger(HeartBeatTimerTask.class);
 		ZKScheduleManager manager;

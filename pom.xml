@@ -12,6 +12,7 @@
         <module>starter-test</module>
         <module>dynamicds-spring-boot-starter</module>
         <module>uncode-schedule-spring-boot-starter</module>
+        <module>schedule-test</module>
     </modules>
     <packaging>pom</packaging>
 

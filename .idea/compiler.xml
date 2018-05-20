@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dynamicds-spring-boot-starter" />
+        <module name="schedule-test" />
         <module name="spring-boot-starter-swagger" />
         <module name="starter-test" />
         <module name="swagger-spring-boot-starter" />
@@ -15,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dynamicds-spring-boot-starter" target="1.8" />
+      <module name="schedule-test" target="1.8" />
       <module name="spring-boot-starter" target="1.5" />
       <module name="spring-boot-starter-swagger" target="1.8" />
       <module name="starter-test" target="1.8" />

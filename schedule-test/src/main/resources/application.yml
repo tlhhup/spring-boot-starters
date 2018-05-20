@@ -1,0 +1,7 @@
+logging:
+  level: debug
+uncode:
+  schedule:
+    zk-username: admin
+    zk-password: 123456
+    zk-connect: 127.0.0.1:2181
