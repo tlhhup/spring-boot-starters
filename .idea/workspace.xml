@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d77a357-4c22-4713-a13e-d012771e2a68" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9d77a357-4c22-4713-a13e-d012771e2a68" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-starter-swagger/target/" />
@@ -435,7 +433,7 @@
       <updated>1522888871881</updated>
       <workItem from="1522888876829" duration="2459000" />
       <workItem from="1522891494331" duration="16216000" />
-      <workItem from="1526787240016" duration="11886000" />
+      <workItem from="1526787240016" duration="11939000" />
     </task>
     <task id="LOCAL-00001" summary="1.多数据源配置">
       <created>1522907176247</created>
@@ -487,7 +485,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30561000" />
+    <option name="totallyTimeSpent" value="30614000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
