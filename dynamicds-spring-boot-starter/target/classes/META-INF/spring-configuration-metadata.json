@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "org.tlh.datasource",
+    "type": "org.tlh.springboot.autoconfigure.DynamicDataSourceProperties",
+    "sourceType": "org.tlh.springboot.autoconfigure.DynamicDataSourceProperties"
+  }],
+  "properties": [{
+    "name": "org.tlh.datasource.names",
+    "type": "java.lang.String[]",
+    "description": "数据源的别名",
+    "sourceType": "org.tlh.springboot.autoconfigure.DynamicDataSourceProperties"
+  }],
+  "hints": []
+}

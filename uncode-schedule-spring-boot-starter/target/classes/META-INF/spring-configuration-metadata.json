@@ -1,0 +1,109 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule",
+      "type": "com.tlh.uncode.schedule.config.UncodeScheduleConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.after-method",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.before-method",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.config",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.cron-expression",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.delay",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.ext-key-suffix",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.ip-black-list",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.params",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.period",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "defaultValue": "\/uncode\/schedule",
+      "name": "uncode.schedule.root-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.start-time",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.target-bean",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.target-method",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.thread-num",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.type",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.zk-connect",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.zk-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "defaultValue": 60000,
+      "name": "uncode.schedule.zk-session-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.tlh.uncode.schedule.config.UncodeScheduleConfig",
+      "name": "uncode.schedule.zk-username",
+      "type": "java.lang.String"
+    }
+  ]
+}

@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d77a357-4c22-4713-a13e-d012771e2a68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_jobs_2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/starter-test/src/main/java/ort/tlh/spring/test/task/SimpleTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/starter-test/src/main/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/starter-test/src/test/java/org/tlh/test/ZookeeperTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/UncodeScheduleAutoConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/config/UncodeScheduleConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/IScheduleDataManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/ScheduleServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/ScheduledDistributedMainRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/ScheduledDistributedSubRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/ScheduledMethodRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/TaskDefine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/core/Version.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/manager/ConsoleManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/manager/DynamicTaskManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/manager/ZKScheduleManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/quartz/MethodInvokingJobDetailFactoryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/util/ScheduleUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/web/ManagerServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/zk/DistributedQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/zk/ScheduleDataManager4ZK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/zk/TimestampTypeAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/zk/ZKManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/java/com/tlh/uncode/schedule/zk/ZKTools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/src/main/resources/META-INF/spring.factories" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uncode-schedule-spring-boot-starter/uncode-schedule-spring-boot-starter.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starter-test/pom.xml" afterPath="$PROJECT_DIR$/starter-test/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starter-test/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/starter-test/src/main/resources/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starter-test/starter-test.iml" afterPath="$PROJECT_DIR$/starter-test/starter-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/starter-test/target/classes/application.yml" afterPath="$PROJECT_DIR$/starter-test/target/classes/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -491,7 +435,7 @@
       <updated>1522888871881</updated>
       <workItem from="1522888876829" duration="2459000" />
       <workItem from="1522891494331" duration="16216000" />
-      <workItem from="1526787240016" duration="11655000" />
+      <workItem from="1526787240016" duration="11886000" />
     </task>
     <task id="LOCAL-00001" summary="1.多数据源配置">
       <created>1522907176247</created>
@@ -500,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522907176247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.将uncode-schedule处理为spring-boot的starter&#10;2.设置用户名和密码为必填，消除如果没有设置密码无法登录的问题&#10;3.注意zookeeper中同种类型的schema认证只能存在一次，如果前期没有设置密码，后面在添加密码时将报错">
+      <created>1526801516834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526801516834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -536,7 +487,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30330000" />
+    <option name="totallyTimeSpent" value="30561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,7 +587,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.多数据源配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.多数据源配置" />
+    <MESSAGE value="1.将uncode-schedule处理为spring-boot的starter&#10;2.设置用户名和密码为必填，消除如果没有设置密码无法登录的问题&#10;3.注意zookeeper中同种类型的schema认证只能存在一次，如果前期没有设置密码，后面在添加密码时将报错" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.将uncode-schedule处理为spring-boot的starter&#10;2.设置用户名和密码为必填，消除如果没有设置密码无法登录的问题&#10;3.注意zookeeper中同种类型的schema认证只能存在一次，如果前期没有设置密码，后面在添加密码时将报错" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1020,8 +972,8 @@
         <state relative-caret-position="224">
           <caret line="259" column="19" lean-forward="false" selection-start-line="259" selection-start-column="19" selection-end-line="259" selection-end-column="19" />
           <folding>
-            <element signature="e#8748#8749#0" expanded="true" />
-            <element signature="e#8788#8789#0" expanded="true" />
+            <element signature="e#8748#8749#0" expanded="false" />
+            <element signature="e#8788#8789#0" expanded="false" />
           </folding>
         </state>
       </provider>
